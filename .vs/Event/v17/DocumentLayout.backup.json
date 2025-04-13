@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Brio\\source\\repos\\Event\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{477F3755-C764-48F7-BD21-185ED4EC00ED}|Event.csproj|c:\\users\\brio\\source\\repos\\event\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477F3755-C764-48F7-BD21-185ED4EC00ED}|Event.csproj|solutionrelative:event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477F3755-C764-48F7-BD21-185ED4EC00ED}|Event.csproj|c:\\users\\brio\\source\\repos\\event\\event.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{477F3755-C764-48F7-BD21-185ED4EC00ED}|Event.csproj|solutionrelative:event.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477F3755-C764-48F7-BD21-185ED4EC00ED}|Event.csproj|c:\\users\\brio\\source\\repos\\event\\workshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477F3755-C764-48F7-BD21-185ED4EC00ED}|Event.csproj|solutionrelative:workshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477F3755-C764-48F7-BD21-185ED4EC00ED}|Event.csproj|c:\\users\\brio\\source\\repos\\event\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477F3755-C764-48F7-BD21-185ED4EC00ED}|Event.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477F3755-C764-48F7-BD21-185ED4EC00ED}|Event.csproj|c:\\users\\brio\\source\\repos\\event\\seminar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477F3755-C764-48F7-BD21-185ED4EC00ED}|Event.csproj|solutionrelative:seminar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Event.csproj",
+              "DocumentMoniker": "C:\\Users\\Brio\\source\\repos\\Event\\Event.csproj",
+              "RelativeDocumentMoniker": "Event.csproj",
+              "ToolTip": "C:\\Users\\Brio\\source\\repos\\Event\\Event.csproj",
+              "RelativeToolTip": "Event.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-05T23:40:41.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Seminar.cs",
+              "DocumentMoniker": "C:\\Users\\Brio\\source\\repos\\Event\\Seminar.cs",
+              "RelativeDocumentMoniker": "Seminar.cs",
+              "ToolTip": "C:\\Users\\Brio\\source\\repos\\Event\\Seminar.cs",
+              "RelativeToolTip": "Seminar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T23:05:15.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Workshop.cs",
+              "DocumentMoniker": "C:\\Users\\Brio\\source\\repos\\Event\\Workshop.cs",
+              "RelativeDocumentMoniker": "Workshop.cs",
+              "ToolTip": "C:\\Users\\Brio\\source\\repos\\Event\\Workshop.cs",
+              "RelativeToolTip": "Workshop.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T23:00:47.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\Brio\\source\\repos\\Event\\Event.cs",
+              "RelativeDocumentMoniker": "Event.cs",
+              "ToolTip": "C:\\Users\\Brio\\source\\repos\\Event\\Event.cs",
+              "RelativeToolTip": "Event.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T22:57:08.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Brio\\source\\repos\\Event\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Brio\\source\\repos\\Event\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAqwHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T22:42:51.96Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
